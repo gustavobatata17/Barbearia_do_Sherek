@@ -1,0 +1,26 @@
+.login{
+    text-align: center;
+
+}
+.cabecario{
+    background-color: #7A3B27;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+   
+    height: 150px;
+}
+body{
+    background-color: #9E7759;
+}
+.adios{
+    font-size: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+img{
+    height: 350px;
+}

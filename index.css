@@ -1,0 +1,89 @@
+body {
+ margin: 0%;
+
+}
+.sherek{
+  height: 400px;
+}
+h1{
+  font-size: 5em;
+  color: white;
+}
+h2{
+  font-size: 3em;
+  color: rgb(255, 255, 255);
+}
+p{
+  font-size: 2em;
+  color: white;
+}
+h3{
+  color: black;
+}
+a{
+    color: brown;
+    font-size: 3em;
+   font-family: 'Nanum Myeongjo', serif;
+
+}
+.a {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #9E7759;
+}
+.abertura {
+  background-color: #7A3B27;
+
+}
+.titulo {
+  display: flex;
+ flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+ 
+}
+.coluna{
+  display: flex;
+  flex-direction: column;
+}
+.sobre {
+  background-color: #8F4C2F;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.cabelo {
+  background-color: #9E7759;
+ display: flex;
+ justify-content: flex-start;
+align-items: start;
+flex-direction: column;
+
+
+  
+  
+}
+.lista {
+position: relative;
+  top: 5px;
+  left: 10px;
+ 
+}
+.img_lista{
+  height: 70%;
+
+  border-radius: 5%;
+}
+.barbearias{
+  background-color: #A85D31;
+text-align: center;
+
+}
+.img_barba{
+  height: 250px;
+  border-radius: 5%;
+ 
+}

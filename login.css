@@ -5,8 +5,9 @@
 .cabecario{
     background-color: #7A3B27;
     text-align: center;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
+
     font-size: 5em;
    
     height: 150px;
